@@ -53,8 +53,8 @@ The application interacts with a relational database consisting of the following
 
 ## 👨‍💻 Developers
 
-- **Umut Tikbas** – [Exaaiser](https://github.com/Exaaiser)  
 - **Ozan Gül**
+- **Umut Tikbas** – [Exaaiser](https://github.com/Exaaiser)  
 
 ---
 
